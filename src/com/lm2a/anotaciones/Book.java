@@ -2,9 +2,9 @@ package com.lm2a.anotaciones;
 
 public class Book {
     @Imprimible(mayusculas = true)
-    private String titulo;
+    public String titulo;
     @Imprimible
-    private String autor;
+    public String autor;
 
     public Book(String titulo, String autor) {
         this.titulo = titulo;
