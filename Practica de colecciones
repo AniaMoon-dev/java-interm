@@ -1,0 +1,49 @@
+
+Practica de ArrayList
+
+Escribir un programa usando un ArrayList de objetos User y crear un metodo que permita imprimir un objeto recuperado a partir de su indice
+
+2) Agregar otro metodo que me permita buscar un elemento en el ArrayList
+
+3) Escribir un programa que copie una lista en otra usando Collections
+
+4) Ademas crear un metodo tal que entren dos listas y copien una en la otra usando iterator
+
+Practica de HashSet
+
+
+5) Escribir un programa que cree un HashSet, poner dentro N objetos y crear un metodo que imprima la cantidad de objetos que hay en el HashSet
+
+
+6) Crear un metodo que itere sobre el HashSet e imprima los objetos
+
+
+7) Creau n metodo que devuelva un clon del HashSet original (pista: buscar en el api doc si hay algun metodo que nos pueda ayudar)
+
+
+8) Escribir un programa que convierta un HashSet en un Array
+
+
+9) Crear un metodo que ccompare dos HashSet y determine si contienen los mismos elementos
+
+
+
+Practica de HashMap
+
+
+10)Escriba un programa que cree un Mapa donde las claves son String y los objetos son User
+
+
+11) Crear un metodo que vmee permita saber si un clave tiene un valor asociado
+
+
+12) Crear un metodo tal que permita obtener e imprimir el valor dada una. clave
+
+
+13) Crear un metodo que liste todas las claves 
+
+
+14) Crear un metodo que liste todos los valores
+
+
+15) Crear un metodo que concatene todos los nombres de usuarios procesando el mapa
